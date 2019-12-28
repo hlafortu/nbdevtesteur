@@ -8,5 +8,5 @@ from fastscript import *
 
 # Cell
 def wrap():
-    "Use the say hello function"
+    "Use the `say_hello` function"
     say_hello("TOTOT")
