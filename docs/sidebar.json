@@ -1,6 +1,7 @@
 {
   "nbdevtesteur": {
     "Overview": "/",
-    "module name here": "/core"
+    "module name here": "/core",
+    "CORETEST": "/coretest"
   }
 }

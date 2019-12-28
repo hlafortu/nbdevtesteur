@@ -5,7 +5,8 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 index = {"say_hello": "00_core.ipynb",
          "HelloSayer": "00_core.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "coretest.py"]
 
 git_url = "https://github.com/hlafortu/nbdevtesteur/tree/master/"
 
