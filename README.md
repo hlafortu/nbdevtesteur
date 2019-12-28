@@ -73,7 +73,7 @@ say_hello("TOTOT")
 
 ```python
 class HelloSayer:
-    "Say hello to `to` using `say_hello`"
+    "Say hello to `to` using [`say_hello`](#say_hello)"
     def __init__(self, to): self.to = to
     def say(self): say_hello(self.to)
 ```
