@@ -68,3 +68,16 @@ say_hello("TOTOT")
 </div>
 
 </div>
+<div class="codecell" markdown="1">
+<div class="input_area" markdown="1">
+
+```python
+class HelloSayer:
+    "Say hello to `to` using `say_hello`"
+    def __init__(self, to): self.to = to
+    def say(self): say_hello(self.to)
+```
+
+</div>
+
+</div>
